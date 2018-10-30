@@ -1,12 +1,10 @@
-GloryaServeurs
-Project for a client : GloryaServeurs
+GloryaServeurs.com
+Project : Server List for game and voice server 
 
 Website :
 
 https://www.gloryaserveurs.com/
-Presentation :
 
-https://www.luluwebmaster.fr/creation-72/glorya-serveurs-vos-meilleurs-serveurs-en-un-site.htm
 How to check if user has vote with PHP :
 
 https://github.com/luluwebmaster/gloryaserveurs/blob/master/doc/api/vote.php
